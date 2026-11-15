@@ -1,0 +1,6 @@
+{
+  "name": "AresNav: Marswalk Mission Planner",
+  "description": "NASA JPL-inspired Marswalk navigation, multi-layer orbital telemetry, route optimization, and astronaut life-support mission planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
